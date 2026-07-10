@@ -995,13 +995,13 @@ function App() {
                   fontStyle: "italic",
                 }}
               >
-                {currentVideo === "kiss" && "~ our little moment ~"}
-                {currentVideo === "hug" && "~ warmest place on earth ~"}
-                {currentVideo === "idle" && "~ just us ~"}
-                {currentVideo === "dance" && "~ our song ~"}
-                {currentVideo === "sleep" && "~ goodnight love ~"}
-                {currentVideo === "party" && "~ celebrating us ~"}
-                {currentVideo === "wave" && "~ hello sunshine ~"}
+                {currentVideo === "kiss" && "~ a little moment ~"}
+{currentVideo === "hug" && "~ warmest place on earth ~"}
+{currentVideo === "idle" && "~ just chilling ~"}
+{currentVideo === "dance" && "~ vibes on ~"}
+{currentVideo === "sleep" && "~ goodnight ~"}
+{currentVideo === "party" && "~ celebration mode ~"}
+{currentVideo === "wave" && "~ hey there ~"}
               </div>
             </motion.div>
 
